@@ -25,7 +25,7 @@ Before running this project, ensure that you have the following installed:
 1. Clone the repository.
 2. install requiements by command ```pip install -r requirements.txt ``` in your environment.
 3. run command ```python manage.py runserver``` in project directory.
-4. go to the link ``http://localhost:800``
+4. go to the link ``http://localhost:8000``
 
 ### Sample
 
